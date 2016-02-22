@@ -22,3 +22,4 @@ return {
 	action = action,
 	triggers = triggers
 }
+end
