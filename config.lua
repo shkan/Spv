@@ -2,10 +2,8 @@ return {
 	bot_api_key = '',
 	time_offset = 0,
 	cli_port = 4567,
-	admin = 102490691,
-		realm = 0000000,
-			realm_name = 'YOUR REALM',
-	admin_name = 'YOU ,
+	admin = 00000000,
+	admin_name = 'YOU' ,
 
 	errors = {
 		connection = 'Connection error.',
@@ -21,7 +19,7 @@ return {
 				realms = {
 			['00000000'] = 'MyRealm! '
 		},
-		admin_group = 0000000,
+		admin_group = 00000000,
 		realm_name = 'MyRealm'
 	},
 	plugins = {
