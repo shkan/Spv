@@ -23,7 +23,6 @@ local action = function(msg)
 	    local target = msg.message_id
 				local feed = msg.text:sub(4, 14)
 		local text = ''..feed..''
-	    sendMessage (receiver, text, target)
 			    forwardMessage (receiver, msg.from.id, target)
 
 	    sendMessage(msg.from.id, '*pm sent*\n*Arman Bot Service Msg\n*Your Pm⬇️\n\n'..input, true, false, true) -- You Can ReplaceArman Bot Service Msg
@@ -47,7 +46,7 @@ local action = function(msg)
 		local feed = msg.text:sub(4, 14)
 		local text = ''..input
 		sendMessage(receiver, text, true, false, true)
-		sendMessage(config.admin, '_Sent To User!_:\n\n'..input, true, false, true)
+		sendMessage(config.admin, ' _SuccessFully Sent_:\n\n'..input, true, false, true)
 	end
 end
 
