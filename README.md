@@ -41,6 +41,6 @@ You may also start the bot with `lua bot.lua`, but then it will not restart auto
 ##Contributors
 Everybody is free to contribute to TelegramLuaBot.
 
-The creator who created This Bot is [Arman](http://github.com/thisisarman). He can be contacted via [Telegram](http://telegram.me/thisisarman) And [Gmail](Thisiisarman@gmail.com).
+The creator who created This Bot is [Arman](http://github.com/thisisarman). He can be contacted via [Telegram](http://telegram.me/thisisarman) .
 -----------------------
 
