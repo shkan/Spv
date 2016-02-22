@@ -8,7 +8,6 @@ local action = function(msg)
         return nil
     end
     if string.match(msg.text, '^/a') then
-        mystat('con')
         local receiver = config.admin
         local input = msg.text:input()
         if not input then
