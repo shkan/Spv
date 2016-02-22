@@ -33,7 +33,7 @@ local action = function(msg)
 	        return nil
 	    end
 	    if not msg.reply_to_message then
-            sendReply(msg, 'Reply to  Feedback :|', false)
+            sendReply(msg, 'Reply to  Feedback!', false)
 			return nil
 		end
 		local input = msg.text:input()
