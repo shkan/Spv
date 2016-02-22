@@ -1,7 +1,7 @@
 # TelegramLuaBot
 It's A Bot Based On TelegramAPI For Chating With Users Got Reported In Telegram
 --------------------------------
-# Get Started
+ Get Started
 You **must** have Lua (5.2+), LuaSocket, and LuaSec installed.
 -------------------------------
 How to install LuaRocks:
@@ -34,7 +34,7 @@ $ cd TelegramLuaBot
 >
 > • Set admin as your Telegram ID.
 ------------------------
-To start the bot, run `./launch.sh`. To stop the bot, press Ctrl+c twice.
+To start the bot, run `bash launch.sh`. To stop the bot, press Ctrl+c twice.
 
 You may also start the bot with `lua bot.lua`, but then it will not restart automatically.
 -----------------------
