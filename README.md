@@ -42,5 +42,11 @@ You may also start the bot with `lua bot.lua`, but then it will not restart auto
 Everybody is free to contribute to TelegramLuaBot.
 
 The creator who created This Bot is [Arman](http://github.com/thisisarman). He can be contacted via [Telegram](http://telegram.me/thisisarman) .
+Special Thanks To
+
+
+The creator and maintainer of otouto is [topkecleon](http://github.com/topkecleon). He can be contacted via [Telegram](http://telegram.me/topkecleon), [Twitter](http://twitter.com/topkecleon), or [email](mailto:topkecleon@outlook.com).
+
+The kanger who created group butler :[Telegram](http://telegram.me/Rlotar).
 -----------------------
 
