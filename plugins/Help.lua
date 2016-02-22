@@ -5,10 +5,6 @@ local triggers = {
 
 local action = function(msg)
     if string.match(msg.text, '^/help') then
-        mystat('help')
-    else
-        mystat('usrs')
-    end
     local text = ''
     if msg.chat.type == 'group' or msg.chat.type == 'supergroup' then
         text = text..'*WELCOME TO ARMAN PV!*\n[GitHub](github.com/thisisarman)\n_Send Pm With_\n/`/a YourPm!`\n'  --You Can Replace WELCOME TO ARMAN PV!
