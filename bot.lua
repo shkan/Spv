@@ -23,7 +23,7 @@ bot_init = function() -- The function run when the bot is started or reloaded.
 		table.insert(plugins, p)
 	end
 
-	print('BOT RUNNING: @'..bot.username .. ', Started. MADE BY @THISISARMAN ' .. bot.first_name ..' ('..bot.id..')')
+	print('BOT RUNNING: @'..bot.username .. ', Started. MADE BY @shayan123hacker ' .. bot.first_name ..' ('..bot.id..')')
 
 	-- Generate a random seed and "pop" the first random number. :)
 	math.randomseed(os.time())
