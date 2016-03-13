@@ -25,7 +25,7 @@ local action = function(msg)
 		local text = ''..feed..''
 			    forwardMessage (receiver, msg.from.id, target)
 
-	    sendMessage(msg.from.id, '*pm sent*\n*Arman Bot Service Msg\n*Your Pm⬇️\n\n'..input, true, false, true) -- You Can ReplaceArman Bot Service Msg
+	    sendMessage(msg.from.id, '*pm sent*\n*S.H.O.S Bot Service Msg\n*Your Pm⬇️\n\n'..input, true, false, true) -- You Can ReplaceArman Bot Service Msg
 	end
 	if string.match(msg.text, '^/u') then
 	    if msg.from.id ~= config.admin then
