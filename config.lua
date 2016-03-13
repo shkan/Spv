@@ -1,9 +1,9 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '206992491:AAH5q8D2yisnIzkCsMyV8-ntKAzrn6ftYKU',
 	time_offset = 0,
 	cli_port = 4567,
 	admin = 87160007,
-	admin_name = 'YOU' ,
+	admin_name = 'Shayan123hacker' ,
 
 	errors = {
 		connection = 'Connection error.',
