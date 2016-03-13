@@ -19,7 +19,7 @@ return {
 				realms = {
 			['131749123'] = 'MyRealm! '
 		},
-		admin_group = 131749123,
+		admin_group = 87160007,
 		realm_name = 'MyRealm'
 	},
 	plugins = {
